@@ -1,7 +1,9 @@
 {
-  "name": "vs-components",
+  "name": "@vimala-siravi/vs-components",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/vimala-siravi"
+  },
   "version": "0.1.0",
-  "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
